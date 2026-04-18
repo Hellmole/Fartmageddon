@@ -6,8 +6,11 @@ Fartmageddon is an unconventional game that humorously simulates the everyday li
 Players take on the role of Jan, a senior from an unnamed Czech town (definitely not Beroun), and face “missions” such as:
 
 • getting as many diagnoses as possible from the doctor
+
 • taming a runaway wheelchair
+
 • fighting for a seat on public transport
+
 • grabbing discounted butter before anyone else
 
 Of course, modern-day hazards won’t be missing — tricky self-checkouts, shady digital scammers, or unpredictable “YouTube kids.” The game is built on humor and absurd situations — bugs are a welcome part of the experience, and graphics take a back seat to fun.
