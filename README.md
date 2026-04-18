@@ -35,7 +35,4 @@ You can follow the development directly in this repository, where more previews,
 
 <img width="1330" height="888" alt="obrazek" src="https://github.com/user-attachments/assets/5d8545a4-b77d-4cc8-a465-6a648b6ea9de" />
 
-<img width="751" height="378" alt="obrazek" src="https://github.com/user-attachments/assets/b7fbf759-99c1-4996-a60f-6e7862d0e7b7" />
-
-<img width="1536" height="1024" alt="obrazek" src="https://github.com/user-attachments/assets/bc2257f2-7029-440f-8ed5-ed52e357cd61" />
 
